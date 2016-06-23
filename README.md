@@ -1,5 +1,5 @@
-# How-to Docker v1.12.0-rc2 on Mac OS X 
-##  Download and Use 
+# How-to Docker v1.12.0-rc2
+##  Download and Use on Mac OS X 
 * First make sure you have [VirtaulBox](https://www.virtualbox.org/wiki/Downloads) installed on your machine.
 * Download [Docker Clientv1.12-RC2](Darwin/OSX 64bit client tgz: https://test.docker.com/builds/Darwin/x86_64/docker-1.12.0-rc2.tgz) on your Mac OS X
 * Copy the docker executable to "/usr/local/bin" as shown below:
