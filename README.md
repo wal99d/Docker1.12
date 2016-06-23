@@ -5,7 +5,7 @@
 ```
 cp ~/Downloads/docker/docker /usr/local/bin
 ```
-3. Then create a new docker machine using "docker-machine create" command as shown below, but you have to mention the new boot2docker-experimental.iso:
+4. Then create a new docker machine using "docker-machine create" command as shown below, but you have to mention the new boot2docker-experimental.iso:
 ```
 docker-machine create -d virtualbox --virtualbox-boot2docker-url https://github.com/boot2docker/boot2docker/releases/download/v1.12.0-rc2/boot2docker-experimental.iso node1
 ```
