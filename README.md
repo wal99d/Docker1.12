@@ -36,7 +36,7 @@ use this command:
 * you can create a new service with specicifed image name and exposing it on port 80 by using below command:
 ```
 #docekr service create --name SERVICE -p 80:80 _NAME IMAGE_NAME
-
+```
 * To list the serivces on the current swarm use the below command:
 ```
 #docekr service ls
